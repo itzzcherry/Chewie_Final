@@ -1,0 +1,14 @@
+# ChewieApp - How to Run
+
+1. Extract this ZIP file.
+2. Open the folder in Visual Studio Code.
+3. In the terminal, run the following:
+
+   npm install
+   npx expo start
+
+4. Scan the QR code with Expo Go, or run it in an emulator.
+
+Note:
+- Node modules are not included.
+- Requires Expo CLI installed 

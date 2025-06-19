@@ -1,0 +1,12 @@
+Chewie App - Finals Submission
+
+APK Download Link:
+https://drive.google.com/file/d/1-jG6jWcEVEi72pnaD-DkR1omF_eluzaI/view?usp=drive_link
+
+Instructions:
+1. Download the APK file from the link above.
+2. Install it on an Android device/Expo Go
+3. Run the app to test functionality.
+
+Submitted by: [Cherry Mae Quiño]
+Section: [BSIT 22M2]
